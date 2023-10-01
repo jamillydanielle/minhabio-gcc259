@@ -1,4 +1,4 @@
-# Biografia de Jamilly Danielle
+# Biografia
 
 ## Graduação
 - **Curso:** Sistemas de Informação
