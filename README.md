@@ -1,5 +1,7 @@
 # Biografia
 
+<img src="minhabio-gcc259/utils/1681174905055.jpg" alt="Sua Imagem" width="200" height="200" style="border-radius: 50%;">
+
 ## Graduação
 - **Curso:** Sistemas de Informação
 - **Instituição:** Universidade Federal de Lavras
